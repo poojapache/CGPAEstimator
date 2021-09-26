@@ -1,2 +1,2 @@
 # CGPAEstimator
-A java swing project to calculate college(K.J.Somaiya) CGPA
+A java swing based project to estimate CGPA of autonomous college (K. J. Somaiya).
